@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A new container controller to easily push views on side like Path or Facebook.'
   s.homepage = 'www.ipup.pro'
   s.author   = { 'Marian Paul' => 'ipodishima@ipup.pro' }
-  s.source   = { :git => "https://github.com/x0r-developer/PPRevealSideViewController.git", :commit => "f1120e80a34f2f560c11a32c65b2fdd9df0e7b0b" }
+  s.source   = { :git => "https://github.com/x0r-developer/PPRevealSideViewController.git", :commit => "22575656aec84e6685a76b333aa6fea2ea23dc85" }
   s.platform = :ios
   s.source_files = 'PPRevealSideViewController/PPRevealSideviewController/'
 
