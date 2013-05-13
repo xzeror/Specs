@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
   s.osx.frameworks   =  'CoreServices', 'Security'
 
   s.requires_arc     =  true
+
   s.header_mappings_dir =  'MKNetworkKit/'
 
   s.dependency 'Reachability', '~> 3.1.0'
